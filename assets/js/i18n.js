@@ -12,7 +12,7 @@ const D={
 "Open menu",
 "Abrir menú"
 ],
-"Como funciona": [
+"Como funciona": [ 
 "How it works",
 "Cómo funciona"
 ],
